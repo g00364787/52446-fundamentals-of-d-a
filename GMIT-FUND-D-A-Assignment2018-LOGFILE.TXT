@@ -1,0 +1,86 @@
+.LOG
+22:27 14/10/2018
+
+COURSE.ID=52446 -- FUNDAMENTALS OF DATA ANALYSIS 
+STUDENT.ID=G00364787
+STUDENT.NAME=PAUL KEARNEY
+
+STUDENT.ID=G00364787
+STUDENT.NAME=PAUL KEARNEY
+
+LOG FILE OF ACTIVITIES
+
+Fundamentals of Data Analysis
+Assignment 2018
+DATE DUE ON/BEFORE 11 NOV 2018
+
+This is a log file created to track/record activity related to the assignment.
+
+FOR INFO:
+The .LOG at the top will cause NOTEPAD to auto-insert the date and time on a new line when the file is opened. This is handy for keeping track of the date&time.
+
+22:37 14/10/2018
+Revisited the CSV input processing from last semeter's project.
+This will be needed to input the dataset into memory for processing.
+
+23:57 14/10/2018
+Running into some trouble.
+Cannot convert a string to a float due to the quotes still being either side of each CSV value.
+Need to get rid of the quote marks from each CSV value first.
+
+Found a website that might provide the answer
+https://stackoverflow.com/questions/39981986/to-process-csv-data-set-in-jupyter-notebook
+
+Didnt help me at all.
+
+00:44 15/10/2018
+Decided to write my own code to handle the Quote-marks in the incoming text myself.
+Can now drop the Quote marks from each incoming line of text.
+Now when the inoming txt is split, the values are stand alone values that will easily convert.
+
+
+01:03 15/10/2018
+Now have the 8 arrays loaded with the floating numbers ready for plotting
+
+01:37 15/10/2018
+According to the picture at 
+http://2.bp.blogspot.com/_IFzDPHUxHI0/SG0ocfCh01I/AAAAAAAAADI/VAqSLJd0dLc/s400/anscombe_quartet.gif
+All four plots are scatter-plots.
+
+
+01:50 15/10/2018
+Going to start on generating Scatter plots one by one then amalgamate them into the one 'canvas' afterwards.
+
+02:03 15/10/2018
+Noticed that the X and Y axes seems to be set to same min and max levels.
+This will need the program to check each incoming value and update the min and max value of X and Y accordingly.
+
+Also noticed that at least two of the arrays have an unusual value in them that doesnt look that its part of a uniform sequence but pictures of the graphs on the internet also have this unusual dot in the graphs.
+
+Added in   x1.clear()  etc to the setup to ensure that no previous values exist in each of the eight x and y arrays. This is because i first thought that the unusual value was actually a 'left over' in memory from a previous run.
+
+02:18 15/10/2018
+Routines written to scan through each list to check for max and min values each X and Y array
+
+
+02:21 15/10/2018
+Small addition to announce max and min values to user
+
+02:34 15/10/2018
+take a break
+
+03:16 15/10/2018
+How to set the Xmax Xmin window for a pyplot...
+https://stackoverflow.com/questions/17907977/pyplot-automatically-setting-x-axis-range-to-min-max-x-values-passed-to-plott
+This should make all four plots look to have the same Axes.
+
+03:45 15/10/2018
+plt.xlim(xx,yy)  not working
+
+
+03:45 15/10/2018
+Time to stop for the night
+
+
+22:43 16/10/2018
+Created the file  GMIT-FUND-D-A-Assignment2018-README.TXT as the README.MD file to describe files conatined in the directory.
