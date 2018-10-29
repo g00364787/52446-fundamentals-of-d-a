@@ -107,3 +107,19 @@ Rearrange the calculating of the various descrptive stats especially the min & m
 22:04 29/10/2018
 Make copy & filename change
 Upload to GITHUB
+
+22:08 29/10/2018
+Not a fan of Jupyter.
+Am used to the the IDE of MS VC/VC++ / old Borland VC where besides the main editing area,  
+F2 F5 F9 & Ctrl/F9 were all that were needed to get a program saved, compiled and running.
+
+22:15 29/10/2018
+More reasearch into the dataset itself.
+Visted  https://heapanalytics.com/blog/data-stories/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story
+After reading this article, I felt that I needed to add  VARIANCE into the descriptive stats.
+
+22:26 29/10/2018
+Side by Side plots
+Visted https://stackoverflow.com/questions/42818361/how-to-make-two-plots-side-by-side-using-python
+
+
