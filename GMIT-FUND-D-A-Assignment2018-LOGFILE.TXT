@@ -117,9 +117,15 @@ F2 F5 F9 & Ctrl/F9 were all that were needed to get a program saved, compiled an
 More reasearch into the dataset itself.
 Visted  https://heapanalytics.com/blog/data-stories/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story
 After reading this article, I felt that I needed to add  VARIANCE into the descriptive stats.
+Also,  "A linear regression (line of best fit) for each dataset follows the equation y = 0.5x + 3"
 
 22:26 29/10/2018
 Side by Side plots
 Visted https://stackoverflow.com/questions/42818361/how-to-make-two-plots-side-by-side-using-python
 
+22:38 29/10/2018
+Now to write what I have found out about the dataset.
+
+23:49 29/10/2018
+Adding references from log file into jupyter notebook
 
