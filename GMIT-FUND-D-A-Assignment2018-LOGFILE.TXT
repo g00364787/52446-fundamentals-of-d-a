@@ -84,3 +84,26 @@ Time to stop for the night
 
 22:43 16/10/2018
 Created the file  GMIT-FUND-D-A-Assignment2018-README.TXT as the README.MD file to describe files conatined in the directory.
+
+20:51 29/10/2018
+Revisited project to check up on bits needed to be finished.
+
+20:54 29/10/2018
+Found website 
+https://learnandlearn.com/python-programming/python-reference/find-calculate-median-python-using-median-function
+to explain how to get the median
+
+21:05 29/10/2018
+Jupyter is not recognising  plt as the pseudonym for MATPLOTLIB
+
+Local 'import' at time of running the plots fixed this - just dont know why it just doesnt work in the usual place.
+Perhaps my I need to do the same with  import statistics  too?
+
+22:03 29/10/2018
+Back working again.
+Strange.
+Rearrange the calculating of the various descrptive stats especially the min & max vales for each array/list.
+
+22:04 29/10/2018
+Make copy & filename change
+Upload to GITHUB
