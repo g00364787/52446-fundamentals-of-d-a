@@ -106,7 +106,7 @@ Rearrange the calculating of the various descrptive stats especially the min & m
 
 22:04 29/10/2018
 Make copy & filename change
-Upload to GITHUB
+Upload to GITHUB 
 
 22:08 29/10/2018
 Not a fan of Jupyter.
@@ -129,3 +129,14 @@ Now to write what I have found out about the dataset.
 23:49 29/10/2018
 Adding references from log file into jupyter notebook
 
+00:21 30/10/2018
+revisted drawing the regression line.
+looked at the video "Two plots on one set of axes "  again
+Regression line on all plots now.
+
+00:23 30/10/2018
+Revisted the "Side-by-side plots video" again to make sure I was doing it right.
+
+00:31 30/10/2018
+Visited https://stackoverflow.com/questions/6541123/improve-subplot-size-spacing-with-many-subplots-in-matplotlib
+to find out about spacing between the plots.
