@@ -140,3 +140,9 @@ Revisted the "Side-by-side plots video" again to make sure I was doing it right.
 00:31 30/10/2018
 Visited https://stackoverflow.com/questions/6541123/improve-subplot-size-spacing-with-many-subplots-in-matplotlib
 to find out about spacing between the plots.
+Didnt do much for me.
+
+00:47 30/10/2018
+And had another go and got a change in display.
+Now to figure out the 'right' arrangement
+Spacing adjusted.
