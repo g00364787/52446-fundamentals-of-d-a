@@ -18,7 +18,7 @@ Created for Fundamentals of Data Analysis
 ### 6. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc
 ### 7. GMIT-FUND-D-A-Assignment2018-report-file.doc 	
 ### 8. LICENSE
-### 9. anscombe.csv
+### 9. anscombe.csv = The input file containg the values created by F.J. Anscombe
 
 ### 10. README.MD   = This file
 ### 11. .gitignore  = List of files that GIT will not process/recognise
