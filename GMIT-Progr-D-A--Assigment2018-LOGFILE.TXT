@@ -1,0 +1,20 @@
+.LOG
+22:28 14/10/2018
+
+COURSE.ID=52465 -- PROGRAMMING FOR DATA ANALYSIS
+STUDENT.ID=G00364787
+STUDENT.NAME=PAUL KEARNEY
+
+
+LOG FILE OF ACTIVITIES
+
+Programming for Data Analysis
+Assignment 2018
+DATE DUE ON/BEFORE 11 NOV 2018
+
+This is a log file created to track/record activity related to the assignment.
+
+
+FOR INFO:
+The .LOG at the top will cause NOTEPAD to auto-insert the date and time on a new line when the file is opened. This is handy for keeping track of the date&time.
+
