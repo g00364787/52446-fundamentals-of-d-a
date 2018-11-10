@@ -1,52 +1,49 @@
-.LOG
-22:27 14/10/2018
+.LOG   
+22:27 14/10/2018   
 
-COURSE.ID=52446 -- FUNDAMENTALS OF DATA ANALYSIS 
-STUDENT.ID=G00364787
-STUDENT.NAME=PAUL KEARNEY
+COURSE.ID=52446 -- FUNDAMENTALS OF DATA ANALYSIS    
+STUDENT.ID=G00364787   
+STUDENT.NAME=PAUL KEARNEY   
 
-STUDENT.ID=G00364787
-STUDENT.NAME=PAUL KEARNEY
+LOG FILE OF ACTIVITIES   
+   
+Fundamentals of Data Analysis   
+Assignment 2018   
+DATE DUE ON/BEFORE 11 NOV 2018   
+   
+This is a log file created to track/record activity related to the assignment.   
+   
+FOR INFO:   
+The .LOG at the top will cause NOTEPAD to auto-insert the date and time on a new line when the file is opened. This is handy for keeping track of the date&time.   
 
-LOG FILE OF ACTIVITIES
-
-Fundamentals of Data Analysis
-Assignment 2018
-DATE DUE ON/BEFORE 11 NOV 2018
-
-This is a log file created to track/record activity related to the assignment.
-
-FOR INFO:
-The .LOG at the top will cause NOTEPAD to auto-insert the date and time on a new line when the file is opened. This is handy for keeping track of the date&time.
-
-22:37 14/10/2018
-Revisited the CSV input processing from last semeter's project.
-This will be needed to input the dataset into memory for processing.
-
-23:57 14/10/2018
-Running into some trouble.
-Cannot convert a string to a float due to the quotes still being either side of each CSV value.
-Need to get rid of the quote marks from each CSV value first.
-
-Found a website that might provide the answer
-https://stackoverflow.com/questions/39981986/to-process-csv-data-set-in-jupyter-notebook
-
-Didnt help me at all.
-
-00:44 15/10/2018
-Decided to write my own code to handle the Quote-marks in the incoming text myself.
-Can now drop the Quote marks from each incoming line of text.
-Now when the inoming txt is split, the values are stand alone values that will easily convert.
-
-
-01:03 15/10/2018
-Now have the 8 arrays loaded with the floating numbers ready for plotting
-
-01:37 15/10/2018
-According to the picture at 
-http://2.bp.blogspot.com/_IFzDPHUxHI0/SG0ocfCh01I/AAAAAAAAADI/VAqSLJd0dLc/s400/anscombe_quartet.gif
-All four plots are scatter-plots.
-
+22:37 14/10/2018   
+Revisited the CSV input processing from last semeter's project.   
+This will be needed to input the dataset into memory for processing.   
+   
+23:57 14/10/2018   
+Running into some trouble.   
+Cannot convert a string to a float due to the quotes still being either side of each CSV value.   
+Need to get rid of the quote marks from each CSV value first.   
+   
+Found a website that might provide the answer   
+https://stackoverflow.com/questions/39981986/to-process-csv-data-set-in-jupyter-notebook   
+   
+Didnt help me at all.   
+   
+00:44 15/10/2018   
+Decided to write my own code to handle the Quote-marks in the incoming text myself.   
+Can now drop the Quote marks from each incoming line of text.   
+Now when the inoming txt is split, the values are stand alone values that will easily convert.   
+   
+   
+01:03 15/10/2018   
+Now have the 8 arrays loaded with the floating numbers ready for plotting   
+   
+01:37 15/10/2018   
+According to the picture at    
+http://2.bp.blogspot.com/_IFzDPHUxHI0/SG0ocfCh01I/AAAAAAAAADI/VAqSLJd0dLc/s400/anscombe_quartet.gif   
+All four plots are scatter-plots.   
+   
 
 01:50 15/10/2018
 Going to start on generating Scatter plots one by one then amalgamate them into the one 'canvas' afterwards.
@@ -146,3 +143,11 @@ Didnt do much for me.
 And had another go and got a change in display.
 Now to figure out the 'right' arrangement
 Spacing adjusted.
+
+
+21:22 10/11/2018
+Back again to do a cleanup prior to final version.
+
+21:25 10/11/2018
+Discovered when removing the  triple hash "###" from the Markdown cells, that sometimes the machine will append one line onto the previous line thereby ruining the intended layout.
+Discovered that by placing some "spaces" on the end of the first line that the second line will remin where it is intended to be.
