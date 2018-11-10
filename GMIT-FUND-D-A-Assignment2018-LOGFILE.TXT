@@ -150,4 +150,6 @@ Back again to do a cleanup prior to final version.
 
 21:25 10/11/2018
 Discovered when removing the  triple hash "###" from the Markdown cells, that sometimes the machine will append one line onto the previous line thereby ruining the intended layout.
-Discovered that by placing some "spaces" on the end of the first line that the second line will remin where it is intended to be.
+Discovered that by placing some "spaces" on the end of the first line that the second line will remain where it is intended to be.
+
+21:35 10/11/2018
