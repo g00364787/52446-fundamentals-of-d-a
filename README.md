@@ -13,7 +13,7 @@ Due: last commit on or before November 11th
  3. LICENSE  
  4. anscombe.csv = The input file containing the values created by F.J. Anscombe  
   
- 5. GMIT-FUND-D-A-Assignment2018-LOGFILE.TXT   
+ 5. GMIT-FUND-D-A-Assignment2018-LOGFILE.TXT = Notepad text file of activities during this assignment
  6. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc = MS Word file showing results of Jupyter output  
  7. GMIT-FUND-D-A-Assignment2018-report-file--20181110a.doc = Updated MS Word file showing results of Jupyter output  
 
