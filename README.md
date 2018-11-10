@@ -14,15 +14,14 @@ Due: last commit on or before November 11th
  4. anscombe.csv = The input file containing the values created by F.J. Anscombe  
   
  5. GMIT-FUND-D-A-Assignment2018-LOGFILE.TXT   
+ 6. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc = MS Word file showing results of Jupyter output  
+ 7. GMIT-FUND-D-A-Assignment2018-report-file--20181110a.doc = Updated MS Word file showing results of Jupyter output  
 
 ### These files were written using Anaconda 64 bit, Jupyter notebook.
 ### # The version of the notebook server is 5.0.0 and is running on:
 ### # Python 3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
 
 ### The following Jupyter Notebook files are present.
- 6. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc = MS Word file showing results of Jupyter output  
- 7. GMIT-FUND-D-A-Assignment2018-report-file--20181110a.doc = Updated MS Word file showing results of Jupyter output  
-
 The Jupyter file is intended to be run from inside Jupyter Notebook.  
  8. GMIT-FUND-D-A-Assignment2018--20181014A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
  9. GMIT-FUND-D-A-Assignment2018--20181029A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
