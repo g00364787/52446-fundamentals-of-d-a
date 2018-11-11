@@ -18,21 +18,22 @@ Due: last commit on or before November 11th
  3. LICENSE  
  4. anscombe.csv = The input file containing the values created by F.J. Anscombe  
  5. GMIT-FUND-D-A-Assignment2018-LOGFILE.TXT = Notepad text file of activities during this assignment
- 6. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc = MS Word file showing results of Jupyter output  
- 7. GMIT-FUND-D-A-Assignment2018-report-file--20181110a.doc = Updated MS Word file showing results of Jupyter output  
- 8. GMIT-FUND-D-A-Assignment2018--20181110A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+ 6. GMIT-FUND-D-A-Assignment2018-report-file--20181110a.doc = Updated MS Word file showing results of Jupyter output  
+ 7. GMIT-FUND-D-A-Assignment2018--20181110A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
 .   
 .   
 .   
 .   
 .      
 ### Older Python Jupyter Notebook files are present.
- 9. GMIT-FUND-D-A-Assignment2018--20181014A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-10. GMIT-FUND-D-A-Assignment2018--20181029A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-11. GMIT-FUND-D-A-Assignment2018--20181030a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-12. GMIT-FUND-D-A-Assignment2018--20181105a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-13. GMIT-FUND-D-A-Assignment2018--20181108a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-14. GMIT-FUND-D-A-Assignment2018--20181108b.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+ 8. GMIT-FUND-D-A-Assignment2018--20181014A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+19. GMIT-FUND-D-A-Assignment2018--20181029A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+10. GMIT-FUND-D-A-Assignment2018--20181030a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+11. GMIT-FUND-D-A-Assignment2018--20181105a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+12. GMIT-FUND-D-A-Assignment2018--20181108a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+13. GMIT-FUND-D-A-Assignment2018--20181108b.ipynb = Jupyter notebook file (Anaconda3 64bit)  
+.
+14. GMIT-FUND-D-A-Assignment2018-report-file--20181030a.doc = MS Word file showing results of Jupyter output  
 .   
 (The highest date and revision letter contains the latest updated notebook file)   
 (I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
