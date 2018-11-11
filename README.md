@@ -33,6 +33,6 @@ Due: last commit on or before November 11th
 12. GMIT-FUND-D-A-Assignment2018--20181105a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
 13. GMIT-FUND-D-A-Assignment2018--20181108a.ipynb = Jupyter notebook file (Anaconda3 64bit)  
 14. GMIT-FUND-D-A-Assignment2018--20181108b.ipynb = Jupyter notebook file (Anaconda3 64bit)  
-
-### (the highest date and revision letter contains the latest updated notebook file)
-### (I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
+.   
+(The highest date and revision letter contains the latest updated notebook file)
+(I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
