@@ -30,3 +30,4 @@ The Jupyter file is intended to be run from inside Jupyter Notebook.
 ### Latest version of Python Notebook file is:
 14. GMIT-FUND-D-A-Assignment2018--20181110A.ipynb = Jupyter notebook file (Anaconda3 64bit)  
 ### (the highest date and revision letter contains the latest updated notebook file)
+### (I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
