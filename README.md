@@ -3,9 +3,9 @@
 
 ### The files in this directory are for the module assignment of 2018.
 .  
-Assignment 2018
-Fundmentals in Data Analysis
-Due: last commit on or before November 11th
+Assignment 2018   
+Fundmentals in Data Analysis   
+Due: last commit on or before November 11th   
 .   
 ### These files were written using Anaconda 64 bit, Jupyter notebook.
 ### # The version of the notebook server is 5.0.0 and is running on:
